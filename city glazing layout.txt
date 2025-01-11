@@ -1,0 +1,76 @@
+Move things around, definitely the first block has to be picture perfect
+
+ADD TWO MORE REVIEWS FOR CURRENT CITY GLAZING
+
+classes:
+	com res custom
+
+loadMore split:
+[1-9],[10-17],[18-27],[28-37]
+
+1-17 minus 2, which will be replaced with ?
+1 is being replaced by ? and former brazza 1 is becoming new 18
+3 main splits:	
+[3-16]
+
+	residential commercial custom:
+		residential:
+			glass door				3	3.1
+			glass shower v2			6
+			custom sized mirror		7	7.1
+			glass railings			8	8.1
+			glass shower v3			10	10.1
+			glass railings v2		12
+			glass railings v3		15
+			glass sauna				16
+			glass shower v4			17	17.1
+		commercial:
+			glass office v4			1->18				WEAK REASSIGNED TO 18
+			storefront				2->DEL				BAD + REMOVE = -1
+			custom design glass		11	11.1
+			decorative glass design	5
+			glass tabletop			4
+			glass office v2			9
+			glass office v3			13
+			glass everything		14	14.1
+		custom:
+			glass door				3	RR	3.1
+			custom design glass		11	RC
+			decorative glass design	5	RC
+			glass everything		15	RC
+			glass sauna				16	RR
+
+18-37 and 1,2
+3 main splits:	
+[1,2,17-37]
+	residential commercial custom:
+		residential:
+			18 	IS THE OLD NUMBER 1 GLASS OFFICE! [glass office v4]
+			19	glass wall bbq			
+			20	glass shower v5			
+			2	glass shower
+			21	glass railings v4		
+			22	glass sauna v2			
+			23	glass railings v5		
+			26	glass wall bbq v2		
+			27	glass shower v6			
+			32	glass shelves			
+			33	glass railings v6		
+		commercial:
+			24 glass office v4			
+			25	glass railings v6		
+			1	glass office
+			28	glass office v5			
+			29	glass office v6	
+			30	glass railings v8	
+			31	glass railings v7			
+			34	glass wall	
+			35	glass railings and kitchen office
+			36	glass sliding door		
+			37	glass wine standing cellar
+		custom:
+			36	glass sliding door	RC
+
+Nothing is more inviting than a beautiful glass storefront which can accentuate the beauty of your products while they are on display: Attention=Sales.
+
+20 jpg is shower v5 ajax 20

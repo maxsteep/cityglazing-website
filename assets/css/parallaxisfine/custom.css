@@ -1,0 +1,90 @@
+/* Add here all your css styles (customizations) */
+
+
+
+/*BRAZZA Logo colour*/
+.tp-caption span {
+  color: #27d7e7 !important;
+}
+
+/*BRAZZA Logo full 
+.tp-caption span {
+  font-size: 31px;
+  font-weight: 200;
+  line-height: 15px;
+  padding: 17px 15px 13px;
+  color: #fff !important;
+  font-family: 'Open Sans', sans-serif;
+  color: #27d7e7 !important;
+}*/
+
+/*font awesome
+.rs-caption-1.first:before {
+  font-size: 16px;
+  content: "\f17a";
+  position: absolute;
+  font-family: FontAwesome;
+}
+
+.rs-caption-1.first:after {
+  font-size: 16px;
+  content: "\f17a";
+  position: absolute;
+  font-family: FontAwesome;
+  color: #27d7e7 !important;
+}*/
+
+.rs-caption-1.first:after,
+.rs-caption-1.first:before {
+  font-size: 20px;
+  content: "\f17a";
+  position: absolute;
+  font-family: FontAwesome;
+}
+
+.rs-caption-1.second:after,
+.rs-caption-1.second:before {
+  font-size: 20px;
+  content: "\f19d";
+  position: absolute;
+  font-family: FontAwesome;
+}
+
+.rs-caption-1.third:after,
+.rs-caption-1.third:before {
+  font-size: 20px;
+  content: "\f005";
+  position: absolute;
+  font-family: FontAwesome;
+  /*color: #27d7e7 !important;*/
+}
+
+.noscrollbar::-webkit-scrollbar { 
+  /* This is the magic bit */
+  display: none;
+}
+
+.rs-caption-1, .rs-caption-2 {
+  color: white;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.aquaover {
+      color: #27d7e7;
+}
+
+.twit {
+    margin-bottom: 20px;
+}
+
+body.dark h2.whiteo {
+    color: #fff;
+}
+
+.bottommargin {
+    padding-bottom: 50px;
+}

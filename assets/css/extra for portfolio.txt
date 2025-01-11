@@ -1,0 +1,13 @@
+css:
+style.css
+/theme-skins/dark.css
+/footers/footer v1 css
+/headers/header default css
+
+js:
+/assets/plugins/cube-portfolio/cubeportfolio/custom/custom-cubeport css
+/assets/js/custom js and app js
+/assets/js/plugins/cubeport/cube_port-3.js
+
+img:
+assets/img/main/img3.jpg ,8,9,10,11,12,18,19,20
